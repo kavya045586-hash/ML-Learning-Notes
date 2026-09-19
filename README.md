@@ -1,4 +1,3 @@
-
 # 📘 ML-Learning-Notes
 
 A structured collection of notes, code, and PDFs covering **AI, ML, and DL** concepts.  
@@ -26,9 +25,31 @@ Organized step-by-step from fundamentals to algorithms.
 - [11.Scalar_Logistic_Code.md](./11.Scalar_Logistic_Code.md)
 - [12.Classification_Algorithms.pdf](./12.Classification_Algorithms.pdf)
 
+**Common Supervised Algorithms:**
+- Linear Regression  
+- Logistic Regression  
+- Decision Trees  
+- Random Forest  
+- K-Nearest Neighbors (KNN)  
+- Support Vector Machines (SVM)  
+- Naive Bayes  
+- Gradient Boosting (XGBoost, LightGBM, CatBoost)
+
+---
+
 ### 🔹 Unsupervised Learning
-- [13.model_tuning_ensemble_unsupervised_simple_code.pdf](./13.model_tuning_ensemble_unsupervised_simple_code.pdf)
+- [13.model_tuning_ensemble_unsupervised_simple.pdf](./13.model_tuning_ensemble_unsupervised_simple.pdf)
 - [14.All_models_simple_code.pdf](./14.All_models_simple_code.pdf)
+
+**Common Unsupervised Algorithms:**
+- K-Means Clustering  
+- Hierarchical Clustering  
+- DBSCAN  
+- Gaussian Mixture Models (GMM)  
+- Principal Component Analysis (PCA)  
+- Singular Value Decomposition (SVD)  
+- t-SNE  
+- Apriori & Eclat (Association Rule Learning)
 
 ---
 
